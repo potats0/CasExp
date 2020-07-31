@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f55b83a7-0b8f-4221-9439-f42e416f9681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fRUZzmxhjbkbGqc8rdIDipmtCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3770115" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\工作相关\source\CasPoc\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\工作相关\source\CasPoc\src" />
+      <recent name="E:\工作相关\source\CasPoc\src\main\resources" />
+      <recent name="E:\工作相关\source\CasPoc" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.poc">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.unicodesec.App" />
+      <module name="CasPoc" />
+      <option name="PROGRAM_PARAMETERS" value="http://127.0.0.1:8080/cas-server-webapp-4.1.5/login&quot;, &quot;whoami" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.unicodesec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.unicodesec.poc" />
+      <module name="CasPoc" />
+      <option name="PROGRAM_PARAMETERS" value="http://127.0.0.1:8080/cas-server-webapp-4.1.5/login whoami" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.unicodesec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.poc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.poc" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f55b83a7-0b8f-4221-9439-f42e416f9681" name="Default Changelist" comment="" />
+      <created>1596180457747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596180457747</updated>
+      <workItem from="1596180460579" duration="7183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="257" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596185547752">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="552" y="257" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1204@0.0.2194.1204" timestamp="1596185547752" />
+    <state x="1523" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596187429718">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="1523" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2194.1204@0.0.2194.1204" timestamp="1596187429718" />
+    <state x="828" y="349" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596184216069">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="828" y="349" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1204@0.0.2194.1204" timestamp="1596184216069" />
+    <state x="679" y="436" key="#xdebugger.evaluate" timestamp="1596183698245">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="679" y="436" key="#xdebugger.evaluate/0.0.2194.1204@0.0.2194.1204" timestamp="1596183698245" />
+    <state width="2151" height="410" key="GridCell.Tab.0.bottom" timestamp="1596187272539">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.0.bottom/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272539" />
+    <state width="2151" height="410" key="GridCell.Tab.0.center" timestamp="1596187272539">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.0.center/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272539" />
+    <state width="2151" height="410" key="GridCell.Tab.0.left" timestamp="1596187272539">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.0.left/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272539" />
+    <state width="2151" height="410" key="GridCell.Tab.0.right" timestamp="1596187272539">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.0.right/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272539" />
+    <state width="2151" height="410" key="GridCell.Tab.1.bottom" timestamp="1596187272730">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.1.bottom/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272730" />
+    <state width="2151" height="410" key="GridCell.Tab.1.center" timestamp="1596187272730">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.1.center/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272730" />
+    <state width="2151" height="410" key="GridCell.Tab.1.left" timestamp="1596187272730">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.1.left/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272730" />
+    <state width="2151" height="410" key="GridCell.Tab.1.right" timestamp="1596187272730">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2151" height="410" key="GridCell.Tab.1.right/0.0.2194.1204@0.0.2194.1204" timestamp="1596187272730" />
+    <state x="628" y="257" key="Maven.ArtifactSearchDialog" timestamp="1596182110120">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="628" y="257" key="Maven.ArtifactSearchDialog/0.0.2194.1204@0.0.2194.1204" timestamp="1596182110120" />
+    <state x="578" y="177" key="SettingsEditor" timestamp="1596186122820">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="578" y="177" key="SettingsEditor/0.0.2194.1204@0.0.2194.1204" timestamp="1596186122820" />
+    <state width="1104" height="609" key="XDebugger.FullValuePopup" timestamp="1596183321341">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="1104" height="609" key="XDebugger.FullValuePopup/0.0.2194.1204@0.0.2194.1204" timestamp="1596183321341" />
+    <state x="754" y="282" width="672" height="677" key="run.anything.popup" timestamp="1596186708831">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="754" y="282" width="672" height="677" key="run.anything.popup/0.0.2194.1204@0.0.2194.1204" timestamp="1596186708831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/cas-0.0.1-all.jar!/maoge/cas/AESBase64.class</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/unicodesec/poc.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/unicodesec/EncryptedTranscoder.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/unicodesec/EncryptedTranscoder.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/cryptacular/cryptacular/1.0/cryptacular-1.0.jar!/org/cryptacular/bean/AbstractCipherBean.class</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
